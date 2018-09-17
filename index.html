@@ -68,26 +68,30 @@
               </tr>
          </table>
          <form>
-             <label>Nama</label>
-             <input type="text">
+             <label for="nama">Nama</label>
+             <input type="text" name="nama">
              
-             <label>Alamat</label>
-             <textarea></textarea>
+             <label for="address">Alamat</label>
+             <textarea name="address"></textarea>
              
-             <label>Negara</label>
-             <select>
+             <label for="country">Negara</label>
+             <select name="country">
                  <option>Spanyol</option>
                  <option>Roma</option>
                  <option>Itali</option>
              </select>
              
              <label>Gender</label>
-             <input type="radio"> <label>Male</label>
-             <input type="radio"> <label>Female</label>
+             <input type="radio" name="male"> 
+             <label for="male">Male</label>
+             <input type="radio" name="female"> 
+             <label for="female">Female</label>
              
              <label>Pekerjaan</label>
-             <input type="checkbox"> <label>School</label>
-             <input type="checkbox"> <label>Work</label>
+             <input type="checkbox" name="school"> 
+             <label for="school">School</label>
+             <input type="checkbox" name="work"> 
+             <label for="work">Work</label>
              
              <button>Save</button>
          </form>
