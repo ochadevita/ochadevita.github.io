@@ -7,5 +7,17 @@ p {
 }
 
 a {
-    color: black;
+    color: #E50050;
+}
+
+h1{
+    color: #3D0017; 
+}
+
+h2{
+    color: #8E0036;
+}
+
+h3{
+    color: #AA003B;
 }
