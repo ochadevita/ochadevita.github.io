@@ -22,12 +22,11 @@ a:hover {
 
 h1 {
     color: #3D0017; 
-    font-style: 'Pacifico';
+    font-family: 'Pacifico', cursive;
 }
 
 h2 {
     color: #8E0036;
-    font-style: cursive;
 }
 
 h3 {
