@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico|Shadows+Into+Light');
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Permanent+Marker|Shadows+Into+Light');
+
 
 body {
     background-color: pink;
@@ -28,6 +30,7 @@ h1 {
 
 h2 {
     color: #8E0036;
+    font-family: 'Permanent Marker', cursive;
 }
 
 h3 {
