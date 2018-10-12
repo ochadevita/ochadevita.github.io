@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Shadows+Into+Light');
 
 body {
     background-color: pink;
@@ -22,7 +22,7 @@ a:hover {
 
 h1 {
     color: #3D0017; 
-    font-family: 'Pacifico', cursive;
+    font-family: font-family: 'Shadows Into Light', cursive;
 }
 
 h2 {
