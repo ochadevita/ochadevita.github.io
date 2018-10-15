@@ -46,22 +46,11 @@ div {
     background-color: #ADD8E6;
 }
 
-.tab1 {
-    background-color: blue;
+.header {
+    background-color: #ADD8E6;
     width: 90px;
     height: 70px;
 }
 
-.tab2 { 
-    background-color: aqua;
-    width: 50%;
-    height: 90%;
-}
-
-.tab3 { 
-    background-color: red;
-    width: 100px;
-    height: 90px;
-}
 
 
