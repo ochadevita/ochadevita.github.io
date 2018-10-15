@@ -48,11 +48,14 @@ div {
 
 .tab1 {
     background-color: blue;
+    width: 500px;
+    height: 700px;
 }
 
 .tab2 { 
     background-color: aqua;
-
+    width: 50%;
+    height: 90%;
 }
 
 
