@@ -49,6 +49,12 @@ div {
     height: 65px;
 }
 
+.home {
+    background-color: #96D1C5;
+    padding: 2rem;
+}
+
+
 .tab1 { 
     background-color: red;
     width: 50%;
