@@ -51,19 +51,17 @@ div {
 
 .tab1 { 
     background-color: red;
-    float: right;
-    width: 100%;
+    width: 50%;
     height: 65px;
     float: right;
 }
 
 .tab2 {
     background-color: yellow;
-    float: right;
-    width: 100%;
+    width: 50%;
     height: 65px;
     float: left;
 }
-}
+
 
 
