@@ -39,9 +39,24 @@ h3 {
     font-size: 2vw;
 }
 
-div {
-    background-color: #ADD8E6;
+.mindex {
+    background-color: pink;
 }
+
+.mindex1 {
+    background-color: #ADD8E6;
+    width: 50%;
+    height: 65px;
+    float: right;
+}
+
+.mindex2 {
+    background-color: #ADD8E6;
+    width: 50%;
+    height: 65px;
+    float: left;
+}
+
 
 .header {
     background-color: #ADD8E6;
