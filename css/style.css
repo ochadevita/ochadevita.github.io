@@ -17,6 +17,12 @@ p {
 a {
     color: #E50050;
     font-size: 1.55vw;
+    position: absolute;
+    top: 0;
+    left: 10px;
+    margin: 0;
+    width: 100%;
+    text-align: center;
 }
 
 a:hover {
