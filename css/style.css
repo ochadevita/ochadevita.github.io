@@ -15,7 +15,7 @@ p {
 }
 
 a {
-    color: pink;
+    color: #E50050;
     font-size: 1.55vw;
 }
 
@@ -41,7 +41,7 @@ h3 {
 }
 
 .header {
-    background-color: #ADD8E6;
+    background-color: pink;
     width: 100%;
     height: 300px;
     text-align: center;
