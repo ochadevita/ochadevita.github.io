@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico|Shadows+Into+Light');
-@import url('https://fonts.googleapis.com/css?family=Pacifico|Permanent+Marker|Shadows+Into+Light');
 
 body {
     background-color: pink;
@@ -24,14 +23,14 @@ a:hover {
 
 h1 {
     color: #3D0017; 
-    font-family: 'Shadows Into Light', cursive;
+    font-family: FranklinGothic,Helvetica,sans-serif;
     font-size: 5vw;
     font-weight: bold;
 }
 
 h2 {
     color: #8E0036;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 h3 { 
