@@ -28,6 +28,7 @@ h1 {
     font-family: 'Monoton', cursive;
     font-size: 10em;
     font-weight: bold;
+    text-align: center;
 }
 
 h2 {
@@ -49,7 +50,8 @@ h3 {
 }
 
 .a-header {
-    margin-top: 10px;
+    margin: 20px;
+    text-align: center;
 }
 
 .main-welcome {
