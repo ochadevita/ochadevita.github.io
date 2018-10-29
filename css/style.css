@@ -50,6 +50,10 @@ h3 {
     position: relative;
 }
 
+.img1 {
+    column-count: 6;
+}
+
 .tab1 { 
     background-color: red;
     width: 50%;
