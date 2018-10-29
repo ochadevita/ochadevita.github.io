@@ -26,13 +26,14 @@ a:hover {
 h1 {
     color: #3D0017; 
     font-family: 'Monoton', cursive;
-    font-size: 7vw;
+    font-size: 7em;
     font-weight: bold;
 }
 
 h2 {
     color: #8E0036;
     font-family: 'Fredericka the Great', cursive;
+    font-size: 4em;
 }
 h3 { 
     color: #AA003B;
