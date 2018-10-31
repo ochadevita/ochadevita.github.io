@@ -47,7 +47,8 @@ h4 {
     font-size: 2vw;
     text-align: center;
     margin: 100px;
-    padding: 50px;
+    padding: 60px;
+    padding-bottom: 0.0px;
 }
 
 h6 { 
