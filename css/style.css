@@ -18,7 +18,7 @@ p {
 a {
     color: #E50050;
     font-size: 1.55vw;
-}|
+}
 
 a:hover {
     color: #1300E5;
@@ -30,6 +30,7 @@ h1 {
     font-size: 10em;
     font-weight: bold;
     text-align: center;
+    margin: 0;
 }
 
 h2 {
