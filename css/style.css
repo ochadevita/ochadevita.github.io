@@ -46,6 +46,15 @@ h4 {
     font-family: 'Fredericka the Great', cursive;
     font-size: 2vw;
     text-align: center;
+    margin: 100px;
+    padding: 50px;
+}
+
+h6 { 
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2vw;
+    text-align: center;
+    padding: 50px;
 }
 
 .header {
