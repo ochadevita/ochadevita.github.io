@@ -46,9 +46,6 @@ h4 {
     font-family: 'Fredericka the Great', cursive;
     font-size: 2vw;
     text-align: center;
-    margin: 100px;
-    padding: 60px;
-    padding-bottom: 0.0px;
 }
 
 h6 { 
@@ -75,6 +72,9 @@ h6 {
 
 .footer {
     background-color: #DD99BB;
+    margin: 100px;
+    padding: 60px;
+    padding-bottom: 0.0px;
 }
       
 
