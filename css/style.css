@@ -59,6 +59,12 @@ h6 {
     padding: 50px;
 }
 
+h7 { 
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2vw;
+    text-align: center;
+}
+
 .header {
     background-color: pink;
     width: 100%;
