@@ -57,6 +57,11 @@ h3 {
     padding-top: 50px;
 }
 
+.footer {
+    background-color: #00CED1;
+}
+      
+
 .tab1 { 
     background-color: red;
     width: 50%;
