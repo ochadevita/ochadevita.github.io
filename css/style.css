@@ -39,9 +39,10 @@ h2 {
     font-size: 2em;
 }
 h3 { 
-    color: #AA003B;
+    color: #ffffff;
     font-size: 2vw;
     font-family: 'Londrina Sketch', cursive;
+    text-align: center;
 }
 
 h4 {
@@ -92,7 +93,7 @@ h7 {
 }
 
 .main-knowkiblat {
-    background-color: #33ccff;
+    background-color: #800000;
     width: 100%;
     height: 65px;
 }
