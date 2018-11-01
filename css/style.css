@@ -79,7 +79,7 @@ h7 {
     text-align: center;
 }
 
-.marquee {
+.main-welcome {
     background-colour: yellow; 
     width: 100%;
     height: 20px;
@@ -90,6 +90,13 @@ h7 {
     margin: 0;
     padding: 280px;
 }
+
+.main-knowkiblat {
+    background-color: red;
+    width: 50%;
+    height: 65px;
+}
+
 
 
 .footer {
