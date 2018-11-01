@@ -30,6 +30,11 @@ a:hover {
     height: 20px;
 }
 
+.img-welcome {
+    margin: 0;
+    padding:20px;
+}
+
 h1 {
     color: #3D0017; 
     font-family: 'Monoton', cursive;
