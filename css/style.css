@@ -24,6 +24,12 @@ a:hover {
     color: #1300E5;
 }
 
+.welcome {
+    background-colour: #ff6666; 
+    width: 100%;
+    height: 20px;
+}
+
 h1 {
     color: #3D0017; 
     font-family: 'Monoton', cursive;
