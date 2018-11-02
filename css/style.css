@@ -97,11 +97,29 @@ h7 {
 .main-knowkiblat {
    background-color: #800000;
    width: 50%;
-   height: 65px;
    margin: auto;
-   vertical-align: center;
+   padding: 10px 0 10px 0;
 }
 
+.main-knowzaman1 {
+   background-color: #cc6699;
+   width: 50%;
+   margin: auto;
+   padding: 10px 0 10px 0;
+}
+
+.h3 {
+   font-family: 'Fredericka the Great', cursive;
+   font-size: 2vw;
+   text-align: center;
+}
+
+.main-knowzaman2 {
+   background-color: #cc0052;
+   width: 50%;
+   margin: auto;
+   padding: 10px 0 10px 0;
+}
 
 
 .footer {
