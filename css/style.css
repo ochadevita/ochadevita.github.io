@@ -26,6 +26,16 @@ a:hover {
     color: #1300E5;
 }
 
+.a-header {
+    margin: 20px;
+    text-align: center;
+    
+}
+.a-header a {
+   padding-left: 5px;
+   padding-right: 5px;
+}
+
 h1 {
     color: #3D0017; 
     font-family: 'Monoton', cursive;
@@ -77,16 +87,6 @@ h7 {
     background-color: pink;
     width: 100%;
     margin-bottom: 50px;
-}
-
-.a-header {
-    margin: 20px;
-    text-align: center;
-    
-}
-.a-header a {
-   padding-left: 20px;
-   padding-right: 20px;
 }
 
 .main-welcome {
