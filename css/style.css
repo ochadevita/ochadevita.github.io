@@ -130,13 +130,6 @@ h6 {
     background-color: #000000;
 }
 
-.opini-k { 
-    background-color: #ffffff;
-    width: 50%;
-    height: 80px;
-    float: right;
-}
-
 .opnini-saran {
     background-color: #ffffff;
     width: 50%;
@@ -144,6 +137,12 @@ h6 {
     float: left;
 }
 
+.opini-k { 
+    background-color: #ffffff;
+    width: 50%;
+    height: 80px;
+    float: right;
+}
 .footer {
     background-color: #DD99BB;
 }
