@@ -132,16 +132,20 @@ h6 {
 
 .opini-saran {
     background-color: #ffffff;
-    width: 50%;
+    width: 40%;
     height: 80px;
     float: left;
+    margin-left: 5%;
+    margin-top: 33px;
 }
 
 .opini-k { 
     background-color: #ffffff;
-    width: 50%;
+    width: 40%;
     height: 80px;
     float: right;
+    margin-right: 5%;
+    margin-top: 33px;
 }
 .footer {
     background-color: #DD99BB;
