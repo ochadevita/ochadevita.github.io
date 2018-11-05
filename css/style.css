@@ -126,6 +126,23 @@ h6 {
     background-color: #ffffff;
 }
 
+.main-opini {
+    backround-color: #000000;
+}
+
+.opini-k { 
+    background-color: #ffffff;
+    width: 50%;
+    height: 80px;
+    float: right;
+}
+
+.opnini-saran {
+    background-color: #ffffff;
+    width: 50%;
+    height: 80px;
+    float: left;
+}
 
 .footer {
     background-color: #DD99BB;
