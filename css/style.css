@@ -127,7 +127,10 @@ h6 {
 }
 
 .main-budget {
-     background-color: #ffffff;
+    background-color: #ffffff;
+    padding: 1px;
+    margin: 15px;
+    text-align: center;
 }
 
 .opini {
