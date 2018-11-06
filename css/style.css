@@ -103,25 +103,25 @@ h6 {
 
 .img-kiblat1 {
     background-color: #9999ff;
-    width: 40%;
-    height: 80px;
+    width: 33%;
+    height: 344px;
     float: left;
-    margin-left: 5%;
+    margin-left: 1%;
     margin-top: 33px;
 }
 
 .img-kiblat2 {
     background-color: #ff66a3;
-    width: 40%;
-    height: 80px;
+    width: 33%;
+    height: 344px;
     float: left;
-    margin-left: 5%;
+    margin-left: 1%;
     margin-top: 33px;
 }
 
 .main-knowzaman1 { 
    background-color: #3b2712;
-   width: 50%;
+   width: 33%;
    margin: auto;
    padding: 20px 0 20px 0;
 }
