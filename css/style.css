@@ -183,11 +183,13 @@ h6 {
 
 .img-knowzaman2 {  
     background-color: #b3b300;
-    width: 37%;
+    width: 42%;
     height: 338px;
     margin: auto;
     margin-top: 26px;
-    padding: 37px;
+    padding: 26px;
+    padding-right: 21px;
+    padding-bottom: 45px;
 }
 
 .main-budget {
