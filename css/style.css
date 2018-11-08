@@ -151,20 +151,19 @@ h6 {
     background-color: #3b2712;
     width: 66%;
     margin: auto;
+    margin-bottom: 27px;
     padding: 35px 0 29px 0;
     height: 45px;
 }
 
 .video-knowzaman {
     background-color: #29a329;
-    height: 340px;
-    width: 542px;
-    margin-top: 24px;
+    height: 315px;
+    width: 560px;
+    margin-top: 38px;
     margin-left: 371px;
-    margin-bottom: 27px;
-    padding: 27px;
-    padding-right: 46px;
-    padding-bottom: 0;
+    padding: 30px;
+    margin: auto;
  }
 
 .h3 {
@@ -178,19 +177,17 @@ h6 {
    background-color: #cc0052;
    width: 60%;
    margin: auto;
+   margin-top: 27px;
    padding: 10px 0 10px 0;
 }
 
 .img-knowzaman2 {  
     background-color: #b3b300;
-    width: 48%;
+    width: 37%;
     height: 338px;
     margin: auto;
     margin-top: 26px;
-    padding: 31px;
-    padding-left: 80px;
-    padding-right: 0px;
-    padding-bottom: 77px;
+    padding: 37px;
 }
 
 .main-budget {
