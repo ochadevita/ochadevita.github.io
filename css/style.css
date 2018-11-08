@@ -89,6 +89,12 @@ h6 {
     height: 377px;
 }
 
+.main-welcome {
+    background-color: #ffffff;
+    margin: 11px;
+    padding: 0px;
+}
+  
 .img-welcome {
     margin: 0;
     padding: 10px;
@@ -175,10 +181,9 @@ h6 {
    padding: 10px 0 10px 0;
 }
 
-.main-welcome {
-    background-color: #ffffff;
-    margin: 11px;
-    padding: 0px;
+.img-knowzaman2 {    
+    width: 20px;
+    height: 50px;
 }
 
 .main-budget {
