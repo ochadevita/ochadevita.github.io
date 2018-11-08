@@ -142,10 +142,11 @@ h6 {
 }
 
 .main-knowzaman1 { 
-   background-color: #3b2712;
-   width: 33%;
-   margin: auto;
-   padding: 20px 0 20px 0;
+    background-color: #3b2712;
+    width: 66%;
+    margin: auto;
+    padding: 35px 0 29px 0;
+    height: 45px;
 }
 
 .video-knowzaman {
