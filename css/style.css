@@ -256,6 +256,10 @@ h6 {
     padding: 0;
 }
 
+.art {
+    text-align: center;
+}
+
 .main-budget {
     background-color: #ffffff;
     padding: 1px;
