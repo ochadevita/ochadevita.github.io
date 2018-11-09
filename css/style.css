@@ -101,6 +101,10 @@ h6 {
 }
 
 .img-coverind {
+    width: 100%;
+}
+
+.img-coverind img {
     object-fit: cover;
 }
 
