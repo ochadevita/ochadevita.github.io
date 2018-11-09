@@ -112,27 +112,42 @@ h6 {
 }
 
 .text-paris {
-    text-align: center;
+    text-align-last: left;
+    margin: 18px;
+    float: left;
 }
 
 .a-paris {
-    text-align: left;
+    text-align-last: end;
+    margin: 16px;
+    padding: 0px;
+    float: right;
 }
 
 .text-seoul {
-    text-align: center;
+    text-align-last: left;
+    margin: 18px;
+    float: left;;
 }
 
 .a-seoul {
-    text-align: left;
+    text-align-last: end;
+    margin: 16px;
+    padding: 0px;
+    float: right;
 }
 
 .text-milan {
-    text-align: center;
+    text-align-last: left;
+    margin: 18px;
+    float: left;
 }
 
 .a-milan {
-    text-align: left;
+    text-align-last: end;
+    margin: 16px;
+    padding: 0px;
+    float: right;
 }
 
 .img-kiblat {
