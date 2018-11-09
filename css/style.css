@@ -241,6 +241,16 @@ h6 {
     padding-bottom: 2px;
 }
 
+.main-tentang {
+    background-color: #ffffff;
+    margin: 11px;
+    padding: 0px;
+}
+
+.tentang {
+    text-align: center;
+}
+
 .main-budget {
     background-color: #ffffff;
     padding: 1px;
