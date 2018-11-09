@@ -259,9 +259,9 @@ h6 {
 .art {
     color: #6D0043;
     text-align: center;
-    text-indent: 2em;
     line-height: 2em;
     font-size: 1.2em;
+    padding: 14px;
 }
 
 .main-budget {
