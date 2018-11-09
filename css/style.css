@@ -111,6 +111,30 @@ h6 {
    padding: 10px 0 10px 0;
 }
 
+.text-paris {
+    text-align: center;
+}
+
+.a-paris {
+    text-align: left;
+}
+
+.text-seoul {
+    text-align: center;
+}
+
+.a-seoul {
+    text-align: left;
+}
+
+.text-milan {
+    text-align: center;
+}
+
+.a-milan {
+    text-align: left;
+}
+
 .img-kiblat {
     background-color: red;
     height: 385px;
